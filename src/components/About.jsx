@@ -8,9 +8,7 @@ function About() {
 
         <div className="about-text">
           <p>
-            I am a Software Engineer and React developer passionate about
-            technology, finance and problem solving. I enjoy building clean,
-            accessible UIs and learning new tools to make better products.
+            Software Engineering graduate with a strong foundation in front-end and back-end web development, skilled in HTML, CSS, JavaScript, and modern web technologies. Passionate about building efficient digital solutions and currently exploring Artificial Intelligence to expand my expertise in emerging technologies.
           </p>
         </div>
       </div>

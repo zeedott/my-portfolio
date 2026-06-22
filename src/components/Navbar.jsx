@@ -1,7 +1,9 @@
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="logo">Arif</div>
+      <div className="logo">
+        <img src="/logo-2.jpg" alt="Arif logo" className="logo-img" />
+      </div>
 
       <ul className="nav-links">
         <li><a href="#about">About</a></li>

@@ -6,20 +6,20 @@ function Contact() {
       <div className="contact-card">
         <p className="contact-line">
           <strong>Email:</strong>{' '}
-          <a href="mailto:your@email.com">your@email.com</a>
+          <a href="mailto:your@email.com">arifnawaz422@email.com</a>
         </p>
 
         <p className="contact-line">
           <strong>LinkedIn:</strong>{' '}
           <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer">
-            linkedin.com/in/yourprofile
+            linkedin.com/in/zeedott
           </a>
         </p>
 
         <p className="contact-line">
           <strong>GitHub:</strong>{' '}
           <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
-            github.com/yourusername
+            github.com/zeedott
           </a>
         </p>
 

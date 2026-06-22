@@ -5,7 +5,10 @@ function Skills() {
     "JavaScript",
     "React",
     "Git",
-    "GitHub"
+    "GitHub",
+    "Node.js",
+    "Express",
+    "MongoDB",
   ];
 
   return (
