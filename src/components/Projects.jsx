@@ -22,7 +22,7 @@ function Projects() {
               <p className="project-desc">{project.description}</p>
             </div>
             <div className="project-actions">
-              <a className="project-link" href="https://github.com/zeedott/cinevault" aria-label={`View ${project.title}`}>
+              <a className="project-link" href="https://cinevault-add-movie-watchlist.vercel.app/" aria-label={`View ${project.title}`}>
                 View
               </a>
             </div>
